@@ -1,4 +1,4 @@
-### Hi 
+# 🖖 Hi <img align="right" src="https://komarev.com/ghpvc/?username=harryscape&style=flat-square&color=blueviolet">
 
 
 [![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryscape&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

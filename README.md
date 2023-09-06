@@ -1,14 +1,5 @@
 # 🖖 Hi <img align="right" src="https://komarev.com/ghpvc/?username=harryscape&style=flat-square&color=blueviolet">
 
-
-[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryscape&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryscape&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harryscape&theme=tokyonight&count_private=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 <!--
 **HarryScape/HarryScape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
